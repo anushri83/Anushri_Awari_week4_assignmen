@@ -1,0 +1,6 @@
+Data are collected using techniques such as measurement, observation, query, or analysis, and are typically represented 
+as numbers or characters that may be further processed. Field data are data that are collected in an uncontrolled, in-situ
+environment. Experimental data are data that are generated in the course of a controlled scientific experiment. Data are 
+analyzed using techniques such as calculation, reasoning, discussion, presentation, visualization, or other forms of 
+post-analysis. Prior to analysis, raw data (or unprocessed data) is typically cleaned: Outliers are removed, and obvious 
+instrument or data entry errors are corrected.
